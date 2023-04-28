@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### my name is Gideon Bature, presently a student of alx africa Software Engineering.
+### my name is Gideon Bature, I am presently a student of ALX Africa Software Engineering.
 
 - I'm currently working on my Technical and Softskill.
 - I'm currently learning the following:
