@@ -4,15 +4,17 @@
 
 - I'm currently working on my Technical and Softskill.
 - I'm currently learning the following:
-    - C Programming
+    - Data Structures and Algorithm (DSA)
     - Shell
     - Linux
-- I'm looking to collaborate on:
-    - Printf Project
-    - Simple Shell Project
+    - Python
+- I have worked on some major projects like:
+    - Printf Project (built a printf function that works exactly as the traditional printf in C)
+    - Simple Shell Project (Built a Simple Shell from Scratch)
+    - Monty Project (Built an Interpreter for the Monty Bytecode from scratch)
 - You can reach me on the following platforms:
-    - [Twitter](https://twitter.com/BatureFunom).
-    - [LinkedIn](https://www.linkedin.com/in/gideon-bature-b28694172/).
+    - [Twitter](https://twitter.com/0xGideonBature).
+    - [LinkedIn](https://www.linkedin.com/in/gideonbature/).
 
 > The Hardest thing to do is to keep going, while the easiest thing to do is to quit.
 
