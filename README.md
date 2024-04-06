@@ -102,6 +102,12 @@
   <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=black&style=for-the-badge" height="30" alt="postman logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/PyCharm-000000?logo=pycharm&logoColor=white&style=for-the-badge" height="30" alt="pycharm logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="30" alt="git logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="30" alt="github logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" height="30" alt="docker logo"  />
 </div>
 
 ###
@@ -114,7 +120,7 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=GideonBature&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GideonBature&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=react&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=GideonBature&locale=en&mode=weekly&theme=dracula&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D&order=3" height="150" alt="streak graph"  />
@@ -128,7 +134,7 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <a href="infoaboutgideon@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="42" height="30" alt="gmail logo"  />
   </a>
