@@ -124,6 +124,10 @@
 
 ###
 
+<h2 align="left">Connect with Me</h2>
+
+###
+
 <div align="center">
   <a href="infoaboutgideon@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="42" height="30" alt="gmail logo"  />
