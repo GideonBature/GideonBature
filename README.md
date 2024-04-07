@@ -18,7 +18,7 @@
 
 ###
 
-<h3 align="left">Programming Languages</h3>
+<h4 align="left">Programming Languages</h4>
 
 ###
 
@@ -40,7 +40,7 @@
 
 ###
 
-<h3 align="left">Frameworks & Libraries</h3>
+<h4 align="left">Frameworks & Libraries</h4>
 
 ###
 
@@ -58,7 +58,7 @@
 
 ###
 
-<h3 align="left">DataBases</h3>
+<h4 align="left">DataBases</h4>
 
 ###
 
@@ -72,7 +72,7 @@
 
 ###
 
-<h3 align="left">Servers & Operating Systems</h3>
+<h4 align="left">Servers & Operating Systems</h4>
 
 ###
 
@@ -88,7 +88,7 @@
 
 ###
 
-<h3 align="left">Editors & Other Tools</h3>
+<h4 align="left">Editors & Other Tools</h4>
 
 ###
 
@@ -138,19 +138,23 @@
 
 <div align="left">
   <a href="infoaboutgideon@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="42" height="30" alt="gmail logo"  />
-  </a>
-  <a href="https://wa.link/82gd9l" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="42" height="30" alt="whatsapp logo"  />
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/gideonbature/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="42" height="30" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
   </a>
   <a href="https://discord.com/channels/@0x83ne" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="42" height="30" alt="discord logo"  />
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="discord logo"  />
   </a>
   <a href="https://www.youtube.com/channel/@beneelohimhub" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="42" height="30" alt="youtube logo"  />
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="youtube logo"  />
+  </a>
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="twitter logo"  />
+  <a href="https://wa.link/82gd9l" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="whatsapp logo"  />
+  </a>
+  <a href="https://t.me/beneelohimhub" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="telegram logo"  />
   </a>
 </div>
 
