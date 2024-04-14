@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="center">Software Engineer | Technical Writer</h4>
+<h4 align="center">Software Engineer | Data Engineer | Technical Writer</h4>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">Hello! My name is Gideon Bature, and I'm deeply passionate about software engineering and technical writing. My journey in Tech is driven by an endless curiosity to learn, experiment with, and develop solutions using a wide array of tools and technologies. I'm a Graduate of the ALX Full-Stack Software Engineering Programme, which is powered by Holberton School of Engineering, where I developed both technical and non-technical skills needed to thrive in the technology space. The programme also gave me an opportunity to  expand my understanding of what's possible in tech.<br><br>I am someone that is also very interested in and engages in discussions, sharing and teaching the latest trends and breakthroughs in technology. I love to breakdown and teach complex concepts to others given the opportunity. I also love to learn more, share my knowledge and connect with like-minded individuals in the tech community.</p>
+<p align="left">Hello! My name is Gideon Bature, and I'm deeply passionate about Software Engineering, Data Engineering and Technical Writing. My journey in Tech is driven by an endless curiosity to learn, experiment with, and develop solutions using a wide array of tools and technologies. I'm a Graduate of the ALX Full-Stack Software Engineering Programme, which is powered by Holberton School of Engineering, where I developed both technical and non-technical skills needed to thrive in the technology space. The programme also gave me an opportunity to  expand my understanding of what's possible in tech.<br><br>I am someone that is also very interested in and engages in discussions, sharing and teaching the latest trends and breakthroughs in technology. I love to breakdown and teach complex concepts to others given the opportunity. I also love to learn more, share my knowledge and connect with like-minded individuals in the tech community.</p>
 
 ###
 
@@ -54,6 +54,10 @@
   <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?logo=tailwindcss&logoColor=black&style=for-the-badge" height="30" alt="tailwindcss logo"  />
   <img width="5" />
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge" height="30" alt="bootstrap logo"  />
+  <img width="5" />
+  <img src="https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white&style=for-the-badge" height="30" alt="pandas logo"  />
+  <img width="5" />
+  <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white&style=for-the-badge" height="30" alt="numpy logo"  />
 </div>
 
 ###
@@ -68,6 +72,8 @@
   <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" height="30" alt="mongodb logo"  />
   <img width="5" />
   <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white&style=for-the-badge" height="30" alt="redis logo"  />
+  <img width="5" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white&style=for-the-badge" height="30" alt="sqlite logo"  />
 </div>
 
 ###
