@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">Hello! My name is Gideon Bature, and I'm deeply passionate about Software Engineering, Data Engineering and Technical Writing. My journey in Tech is driven by an endless curiosity to learn, experiment with, and develop solutions using a wide array of tools and technologies. I'm a Graduate of the ALX Full-Stack Software Engineering Programme, which is powered by Holberton School of Engineering, where I developed both technical and non-technical skills needed to thrive in the technology space. The programme also gave me an opportunity to  expand my understanding of what's possible in tech.<br><br>I am someone that is also very interested in and engages in discussions, sharing and teaching the latest trends and breakthroughs in technology. I love to breakdown and teach complex concepts to others given the opportunity. I also love to learn more, share my knowledge and connect with like-minded individuals in the tech community.</p>
+<p align="left">My name is Gideon Bature, I am a curious and analytical tech enthusiast, that excels in solving complex technical problems and driving innovative solutions. With a strong foundation in software engineering and DevOps, I possess a unique blend of technical and analytical skills. Proficient in a range of programming languages and tools, including C, Python, and JavaScript, I am well-equipped to analyze complex technical issues and develop effective solutions.<br><br>My experience in operations management, teaching, and programming has honed my ability to collaborate with teams, improve processes, and drive results. I am a dedicated and continuous learner, passionate about leveraging technology to drive business growth and success.</p>
 
 ###
 
