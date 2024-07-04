@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">My name is Gideon Bature, I am a curious and analytical tech enthusiast, that excels in solving complex technical problems and driving innovative solutions. With a strong foundation in software engineering and DevOps, I possess a unique blend of technical and analytical skills. Proficient in a range of programming languages and tools, including C, Python, and JavaScript, I am well-equipped to analyze complex technical issues and develop effective solutions.<br><br>My experience in operations management, teaching, and programming has honed my ability to collaborate with teams, improve processes, and drive results. I am a dedicated and continuous learner, passionate about leveraging technology to drive business growth and success.</p>
+<p align="left">As a curious and analytical tech enthusiast, I excel in solving complex technical problems and driving innovative solutions. With a strong foundation in Software Engineering and System Engineering DevOps, I possess a unique blend of technical and analytical skills. I am Proficient in a range of programming languages and tools, including C, Python, JavaScript, Solidity, Rust etc. I am well-equipped to analyze complex technical issues and develop effective solutions.<br><br>My experience in operations management, teaching, and programming has honed my ability to collaborate with teams, improve processes, and drive results. I am a dedicated and continuous learner, passionate about leveraging technology to drive business growth and success.</p>
 
 ###
 
@@ -23,19 +23,17 @@
 ###
 
 <div align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="30" alt="python logo"  />
-  <img width="5" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="30" alt="javascript logo"  />
-  <img width="5" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black&style=for-the-badge" height="30" alt="c logo"  />
-  <img width="5" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" height="30" alt="typescript logo"  />
-  <img width="5" />
-  <img src="https://img.shields.io/badge/Solidity-363636?logo=solidity&logoColor=white&style=for-the-badge" height="30" alt="solidity logo"  />
-  <img width="5" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="30" alt="html5 logo"  />
-  <img width="5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" height="30" alt="css3 logo"  />
+  <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black&style=for-the-badge" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white&style=for-the-badge" height="40" alt="rust logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Solidity-363636?logo=solidity&logoColor=white&style=for-the-badge" height="40" alt="solidity logo"  />
 </div>
 
 ###
@@ -45,11 +43,11 @@
 ###
 
 <div align="left">
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" height="30" alt="nodejs logo"  />
+  <img width="5" />
   <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white&style=for-the-badge" height="30" alt="flask logo"  />
   <img width="5" />
   <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="30" alt="react logo"  />
-  <img width="5" />
-  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" height="30" alt="nodejs logo"  />
   <img width="5" />
   <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?logo=tailwindcss&logoColor=black&style=for-the-badge" height="30" alt="tailwindcss logo"  />
   <img width="5" />
