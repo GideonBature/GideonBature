@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="center">Software Engineer | Data Engineer | Technical Writer</h4>
+<h4 align="center">Software Engineer | Technical Writer</h4>
 
 ###
 
